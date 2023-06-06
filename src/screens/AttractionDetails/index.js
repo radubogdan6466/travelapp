@@ -1,17 +1,16 @@
 import React from 'react';
 import {
+  Image,
   ImageBackground,
+  Pressable,
   SafeAreaView,
   Text,
-  View,
-  Image,
-  Pressable,
   ScrollView,
+  View,
 } from 'react-native';
-import styles from './styles';
-import Title from '../../components/Title';
 import InfoCard from '../../components/InfoCard';
-import Menu from '../../components/Menu';
+import Title from '../../components/Title';
+import styles from './styles';
 const AttractionDetails = ({navigation, route}) => {
   const {item} = route?.params || {};
   const mainImage = item?.images?.length ? item?.images[0] : null;

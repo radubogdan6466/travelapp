@@ -1,12 +1,12 @@
 import React, {useEffect, useState} from 'react';
-import {SafeAreaView, FlatList, View, Text} from 'react-native';
+import {FlatList, SafeAreaView, Text, View} from 'react-native';
+import {useNavigation} from '@react-navigation/native';
+import AttractionCard from '../../components/AttractionCard';
+import Categories from '../../components/Categories';
 import Title from '../../components/Title';
 import styles from './styles';
-import Categories from '../../Categories/index';
-import AttractionCard from '../../AttractionCard/index';
 import jsonData from '../../data/attractions.json';
 import categories from '../../data/categories.json';
-import {useNavigation} from '@react-navigation/native';
 
 const ALL = 'All';
 const Home = () => {
