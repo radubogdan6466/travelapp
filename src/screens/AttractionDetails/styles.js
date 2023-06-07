@@ -74,7 +74,6 @@ const styles = StyleSheet.create({
   title: {
     fontWeight: 'bold',
     fontSize: 16,
-    marginBottom: 10,
     color: '#000000',
   },
 
@@ -104,6 +103,12 @@ const styles = StyleSheet.create({
     marginLeft: 10,
     fontSize: 14,
     color: '#000000',
+  },
+  mapStyle: {
+    width: '100%',
+    height: 200,
+    borderRadius: 10,
+    paddingBottom: 140,
   },
 });
 export default styles;

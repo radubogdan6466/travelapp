@@ -8,6 +8,7 @@ import {
   ScrollView,
   View,
 } from 'react-native';
+import MapView, {Marker, PROVIDER_GOOGLE} from 'react-native-maps';
 import InfoCard from '../../components/InfoCard';
 import Title from '../../components/Title';
 import styles from './styles';
@@ -16,19 +17,29 @@ const AttractionDetails = ({navigation, route}) => {
   const mainImage = item?.images?.length ? item?.images[0] : null;
   const slicedImages = item?.images?.length ? item?.images?.slice(0, 5) : [];
   const diffImages = item?.images?.length - slicedImages?.length;
+  const programOP = `Open\n${item?.opening_time} - ${item?.closing_time}`;
+  const markCoords = {
+    latitude: item?.coordinates?.lat,
+    longitude: item?.coordinates?.lon,
+    latitudeDelta: 0,
+    longitudeDelta: 0.01,
+  };
   //verific daca are meniu
   const hasMenu =
     item.Menu && (item.Menu.Bere.length > 0 || item.Menu.Mancare.length > 0);
-
+  const hasEntryPrice =
+    item.entry_price &&
+    (item.entry_price.length > 0 || item.entry_price.length > 0);
   const onBack = () => {
     navigation.goBack();
   };
   const onGalleryNavigate = () => {
     navigation.navigate('Gallery', {images: item?.images});
   };
+  console.log('item :>> ', item);
   return (
     <SafeAreaView style={styles.container}>
-      <ScrollView>
+      <ScrollView showsVerticalScrollIndicator={false}>
         <ImageBackground
           style={styles.mainImage}
           imageStyle={{borderRadius: 20}}
@@ -55,10 +66,15 @@ const AttractionDetails = ({navigation, route}) => {
           </Pressable>
         </ImageBackground>
         <View style={styles.headerContainer}>
-          <View>
+          <View style={{maxWidth: '70%'}}>
             <Title style={styles.title} text={item?.name} />
             <Text style={styles.city}>{item?.city}</Text>
-            <Title style={styles.title} text={item?.entry_price} />
+            {hasEntryPrice && (
+              <Title
+                style={styles.title}
+                text={'Pret intrare ' + item?.entry_price + ' lei'}
+              />
+            )}
           </View>
         </View>
         <InfoCard
@@ -66,8 +82,7 @@ const AttractionDetails = ({navigation, route}) => {
           icon={require('../../assets/locatie.png')}
         />
         <InfoCard
-          text={`Open
-${item?.opening_time} - ${item?.closing_time}`}
+          text={programOP}
           icon={require('../../assets/schedule.png')}
         />
         <View>
@@ -121,6 +136,15 @@ ${item?.opening_time} - ${item?.closing_time}`}
             />
           )}
         </View>
+        <MapView
+          provider={PROVIDER_GOOGLE} // remove if not using Google Maps
+          style={styles.mapStyle}
+          region={markCoords}>
+          <Marker
+            coordinate={markCoords}
+            title={'Aici se afla  ' + item?.name}
+          />
+        </MapView>
       </ScrollView>
     </SafeAreaView>
   );

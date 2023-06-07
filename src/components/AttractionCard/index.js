@@ -4,7 +4,7 @@ import styles from './styles';
 import {TouchableOpacity} from 'react-native-gesture-handler';
 const AttractionCard = ({imageSrc, title, subtitle, onPress, style}) => {
   if (!imageSrc) {
-    return null; // sau puteți returna un element placeholder
+    return null;
   }
   return (
     <TouchableOpacity onPress={onPress} style={[styles.card, style]}>
