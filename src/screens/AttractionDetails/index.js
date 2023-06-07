@@ -17,7 +17,11 @@ const AttractionDetails = ({navigation, route}) => {
   const mainImage = item?.images?.length ? item?.images[0] : null;
   const slicedImages = item?.images?.length ? item?.images?.slice(0, 5) : [];
   const diffImages = item?.images?.length - slicedImages?.length;
-  const programOP = `Open\n${item?.opening_time} - ${item?.closing_time}`;
+  const programOP = `Program
+Luni-Vineri ${item?.opening_time} - ${item?.closing_time}
+Sambata ${item?.opening_saturday || ''} - ${item?.closing_saturday || 'inchis'}
+Duminica ${item?.opening_sunday || ''} - ${item?.closing_sunday || 'inchis'}`;
+
   const markCoords = {
     latitude: item?.coordinates?.lat,
     longitude: item?.coordinates?.lon,
@@ -36,7 +40,6 @@ const AttractionDetails = ({navigation, route}) => {
   const onGalleryNavigate = () => {
     navigation.navigate('Gallery', {images: item?.images});
   };
-  console.log('item :>> ', item);
   return (
     <SafeAreaView style={styles.container}>
       <ScrollView showsVerticalScrollIndicator={false}>
@@ -66,7 +69,7 @@ const AttractionDetails = ({navigation, route}) => {
           </Pressable>
         </ImageBackground>
         <View style={styles.headerContainer}>
-          <View style={{maxWidth: '70%'}}>
+          <View style={{maxWidth: '80%'}}>
             <Title style={styles.title} text={item?.name} />
             <Text style={styles.city}>{item?.city}</Text>
             {hasEntryPrice && (

@@ -5,9 +5,13 @@
     "city": "Timisoara",
     "country": "Romania",
     "entry_price": "",
-    "address": "Piazza del Colosseo, 1, 00184 Roma RM, Italy",
-    "opening_time": "12:00 AM",
-    "closing_time": "12:00 PM",
+    "address": "Strada Academician Alexandru Borza",
+    "opening_time": "10:00 AM",
+    "closing_time": "11:00 PM",
+    "opening_saturday": "11:00 AM",
+    "closing_saturday": "11:00 PM",
+    "opening_sunday": "02:00 PM",
+    "closing_sunday": "11:00 PM",
     "categories": ["Parcuri"],
     "images": [
       "https://spotlight-timisoara.eu/wp-content/uploads/2022/06/parculRozelornew1.jpg",
@@ -17,8 +21,8 @@
       "https://ghidul-horeca.ro/wp-content/uploads/2021/07/Parcul-Rozelor-din-Timisoara-26.jpg"
     ],
     "coordinates": {
-      "lat": 41.8902,
-      "lon": 12.4922
+      "lat": 45.75026,
+      "lon": 21.23241
     }
   },
   {
@@ -28,8 +32,12 @@
     "country": "Romania",
     "entry_price": "",
     "address": "Strada Gheorghe Dima",
-    "opening_time": "9:00 AM",
-    "closing_time": "5:00 PM",
+    "opening_time": "10:00 AM",
+    "closing_time": "11:00 PM",
+    "opening_saturday": "11:00 AM",
+    "closing_saturday": "11:00 PM",
+    "opening_sunday": "02:00 PM",
+    "closing_sunday": "11:00 PM",
     "categories": ["Parcuri", "Trending"],
     "images": [
       "https://lh3.googleusercontent.com/p/AF1QipPxcbI7XN2n4Q3Enmp03SvI9J1AK4iEEfaTHqW-=s1360-w1360-h1020",
@@ -40,8 +48,8 @@
       "https://lh3.googleusercontent.com/p/AF1QipM31M49kC2nAmBdQOquVffjCs2yZujoHilCyJxO=s1360-w1360-h1020"
     ],
     "coordinates": {
-      "lat": 27.1751,
-      "lon": 78.0421
+      "lat": 45.76043536034,
+      "lon": 21.22530145325589
     }
   },
   {
@@ -51,8 +59,12 @@
     "country": "Romania",
     "entry_price": "",
     "address": "Bulevardul Constantin Diaconovici Loga 43",
-    "opening_time": "12:00 AM",
-    "closing_time": "12:00 AM",
+    "opening_time": "10:00 AM",
+    "closing_time": "11:00 PM",
+    "opening_saturday": "11:00 AM",
+    "closing_saturday": "11:00 PM",
+    "opening_sunday": "02:00 PM",
+    "closing_sunday": "11:00 PM",
     "categories": ["Cele mai vizitate", "Parcuri"],
     "images": [
       "https://lh3.googleusercontent.com/p/AF1QipO14lzJ-IBJxS0Ah2HPNI4OBsaIOZXy1CuIjUQQ=s1360-w1360-h1020",
@@ -61,8 +73,8 @@
       "https://lh3.googleusercontent.com/p/AF1QipMtVE9Z02PMhXM-gnyWdwT91p4KZ5SrMG7S-f0b=s1360-w1360-h1020"
     ],
     "coordinates": {
-      "lat": 48.8584,
-      "lon": 2.2945
+      "lat": 45.75329568409376,
+      "lon": 21.23724317068285
     }
   },
   {
@@ -72,9 +84,13 @@
     "country": "Romania",
     "entry_price": "15",
     "address": "Avram Imbroane 1",
-    "opening_time": "12:00 AM",
-    "closing_time": "05:00 PM",
-    "categories": ["Istorie"],
+    "opening_time": "10:00 AM",
+    "closing_time": "11:00 PM",
+    "opening_saturday": "11:00 AM",
+    "closing_saturday": "11:00 PM",
+    "opening_sunday": "02:00 PM",
+    "closing_sunday": "11:00 PM",
+    "categories": ["Istorie", "Arta"],
     "images": [
       "https://lh3.googleusercontent.com/p/AF1QipMAof6IRdeDofYk3-4vF1Cim0jlnnNo1z89NBTS=s1360-w1360-h1020",
       "https://lh3.googleusercontent.com/p/AF1QipPKJBGIA3TEPkotMhM2YVLTxK1y87Agw2yYYXHC=s1360-w1360-h1020",
@@ -83,8 +99,8 @@
       "https://lh3.googleusercontent.com/p/AF1QipPwQv_ZUYZtkeqQBltaMUXuxHicykZzKncXZzXN=s1360-w1360-h1020"
     ],
     "coordinates": {
-      "lat": 43.723,
-      "lon": 10.3966
+      "lat": 45.77786652235754,
+      "lon": 21.265606830549984
     }
   },
   {
@@ -94,8 +110,12 @@
     "country": "Romania",
     "entry_price": "",
     "address": "Strada General Traian Doda 1",
-    "opening_time": "8:00 AM",
-    "closing_time": "12:00 AM",
+    "opening_time": "08:00 AM",
+    "closing_time": "12:30 PM",
+    "opening_saturday": "02:00 PM",
+    "closing_saturday": "02:00 AM",
+    "opening_sunday": "02:00 PM",
+    "closing_sunday": "02:00 AM",
     "categories": [
       "Pub-uri",
       "Cele mai vizitate",
@@ -132,8 +152,12 @@
     "country": "Romania",
     "entry_price": "",
     "address": "Strada Martin Luther nr. 4",
-    "opening_time": "5:00 PM",
-    "closing_time": "02:00 AM",
+    "opening_time": "10:00 AM",
+    "closing_time": "11:00 PM",
+    "opening_saturday": "11:00 AM",
+    "closing_saturday": "11:00 PM",
+    "opening_sunday": "02:00 PM",
+    "closing_sunday": "11:00 PM",
     "categories": ["Pub-uri", "Mancare"],
     "images": [
       "https://lh3.googleusercontent.com/p/AF1QipNf1OfqNcSIDnjF6fWAceCO99XbJCjNUrX5YSHK=s1360-w1360-h1020",
@@ -144,8 +168,8 @@
       "https://lh3.googleusercontent.com/p/AF1QipNHX7c-RGwQnIOCWTSXvtUfPbgsHTRdQKFka-bl=s1360-w1360-h1020"
     ],
     "coordinates": {
-      "lat": 43.723,
-      "lon": 10.3966
+      "lat": 45.756952044682585,
+      "lon": 21.232751383932882
     },
     "Menu": {
       "Bere": ["Heineken 0.33L", "Corona 0.33L", "Becks 0.33L"],
@@ -163,8 +187,12 @@
     "country": "Romania",
     "entry_price": "",
     "address": " Strada Mărășești 14",
-    "opening_time": "6:00 PM",
-    "closing_time": "02:00 AM",
+    "opening_time": "10:00 AM",
+    "closing_time": "11:00 PM",
+    "opening_saturday": "11:00 AM",
+    "closing_saturday": "11:00 PM",
+    "opening_sunday": "02:00 PM",
+    "closing_sunday": "11:00 PM",
     "categories": ["Pub-uri", "Cele mai vizitate", "Recomandat"],
     "images": [
       "https://lh3.googleusercontent.com/p/AF1QipOe_bNtUVinMr4svnEQKMwxoarWmI8eWFW18rs_=s680-w680-h510",
@@ -175,8 +203,8 @@
       "https://lh3.googleusercontent.com/p/AF1QipNFI2uirv7XsN0cOHpwe7aHpLSyUJ7vNxBx7-TI=s680-w680-h510"
     ],
     "coordinates": {
-      "lat": 43.723,
-      "lon": 10.3966
+      "lat": 45.75912400927404,
+      "lon": 21.22597537655443
     },
     "Menu": {
       "Bere": ["Efes 0.5L", "Stella Artois 0.33L", "Leffe 0.33L"],
@@ -199,7 +227,11 @@
     "entry_price": "",
     "address": " Splaiul Nicolae Titulescu - mal Bega",
     "opening_time": "10:00 AM",
-    "closing_time": "12:00 AM",
+    "closing_time": "11:00 PM",
+    "opening_saturday": "11:00 AM",
+    "closing_saturday": "11:00 PM",
+    "opening_sunday": "02:00 PM",
+    "closing_sunday": "11:00 PM",
     "categories": ["Pub-uri", "Cele mai vizitate", "Mancare"],
     "images": [
       "https://lh3.googleusercontent.com/p/AF1QipMlmhME6ePKCov3WzNFYv7TvIwQEtCgegxU4n_t=s680-w680-h510",
@@ -210,8 +242,8 @@
       "https://lh3.googleusercontent.com/p/AF1QipNsghknT7Q5viOcAHMUsqt43t1JyOwaOJlswh2C=s680-w680-h510"
     ],
     "coordinates": {
-      "lat": 43.723,
-      "lon": 10.3966
+      "lat": 45.75051797780284,
+      "lon": 21.220438868587532
     },
     "Menu": {
       "Bere": ["Budweiser 0.5L", "Carlsberg 0.33L", "Asahi 0.33L"],
@@ -224,14 +256,18 @@
   },
   {
     "id": 9,
-    "name": "Muzeul Național de Artă",
+    "name": "Muzeul Național de Artă Timisoara",
     "city": "Timisoara",
     "country": "Romania",
     "entry_price": "21",
     "address": "Piata Unirii nr. 1",
-    "opening_time": "01:00 PM",
-    "closing_time": "09:00 PM",
-    "categories": ["Arta", "Recomandat", "Cele mai vizitate"],
+    "opening_time": "10:00 AM",
+    "closing_time": "11:00 PM",
+    "opening_saturday": "11:00 AM",
+    "closing_saturday": "11:00 PM",
+    "opening_sunday": "02:00 PM",
+    "closing_sunday": "11:00 PM",
+    "categories": ["Arta", "Recomandat", "Cele mai vizitate", "Istorie"],
     "images": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/MuzeuArta_Timisoara.jpg/420px-MuzeuArta_Timisoara.jpg",
       "https://lh3.googleusercontent.com/p/AF1QipPBaI6UlEp-vSDTx08bWLp8CL3i9EQc7PeUKry5=s1360-w1360-h1020",
@@ -240,115 +276,111 @@
       "https://lh3.googleusercontent.com/p/AF1QipORSOzX2vvhP--2kKjc9kTxhI7SovQVs9gNMyTE=s1360-w1360-h1020"
     ],
     "coordinates": {
-      "lat": 43.723,
-      "lon": 10.3966
+      "lat": 45.757427990540556,
+      "lon": 21.229212053817168
     }
   },
   {
     "id": 10,
-    "name": "Muzeul 2",
+    "name": "Muzeul Consumatorului Comunist",
     "city": "Timisoara",
     "country": "Romania",
     "entry_price": "21",
-    "address": "Piata Unirii nr. 1",
-    "opening_time": "01:00 PM",
-    "closing_time": "09:00 PM",
-    "categories": ["Arta"],
+    "address": "Strada Arhitect Laszlo Szekely 1",
+    "opening_time": "10:00 AM",
+    "closing_time": "11:00 PM",
+    "opening_saturday": "11:00 AM",
+    "closing_saturday": "11:00 PM",
+    "opening_sunday": "02:00 PM",
+    "closing_sunday": "11:00 PM",
+    "categories": ["Arta", "Istorie"],
     "images": [
-      "https://lh3.googleusercontent.com/p/AF1QipOQXt3yyRYUJ4Kp_ROuHJWTbxOS_AloMfVFquAd=s1360-w1360-h1020",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/MuzeuArta_Timisoara.jpg/420px-MuzeuArta_Timisoara.jpg",
-      "https://lh3.googleusercontent.com/p/AF1QipPBaI6UlEp-vSDTx08bWLp8CL3i9EQc7PeUKry5=s1360-w1360-h1020",
-      "https://lh3.googleusercontent.com/p/AF1QipPd4TL3J6nBA5JLLtaB5sZUBrcGxv2DiuaN5C3x=s1360-w1360-h1020",
-      "https://lh3.googleusercontent.com/p/AF1QipORSOzX2vvhP--2kKjc9kTxhI7SovQVs9gNMyTE=s1360-w1360-h1020"
+      "https://lh3.googleusercontent.com/p/AF1QipODcG1YKlJbfqKXeTc14UZiE4myeFB5HUz6WNSQ=s1360-w1360-h1020",
+      "https://lh3.googleusercontent.com/p/AF1QipNQbeeK87Nl4hQlwUKcHTnOyN2EtnKRhOaPbArw=s1360-w1360-h1020",
+      "https://lh3.googleusercontent.com/p/AF1QipOCgtC9NFAHCEYXnqFys9Gi6up2dPMA1sUe7iKC=s1360-w1360-h1020",
+      "https://lh3.googleusercontent.com/p/AF1QipP1VFa1bLDP5pjR1os5k-VVlzJRMjvbhK0_0m_n=s1360-w1360-h1020",
+      "https://lh3.googleusercontent.com/p/AF1QipMnF3sTSprJSFqGjbeBMXj867Oz9Kwn7SXLVUpg=s1360-w1360-h1020",
+      "https://lh3.googleusercontent.com/p/AF1QipN7DqNn2ntvHOmTcrlPl06-bcy_pf_auSHDWAtp=s1360-w1360-h1020"
     ],
     "coordinates": {
-      "lat": 43.723,
-      "lon": 10.3966
+      "lat": 45.743366264523814,
+      "lon": 21.224220953731066
     }
   },
   {
     "id": 11,
-    "name": "Muzeul 3",
+    "name": "Muzeul Militar",
     "city": "Timisoara",
     "country": "Romania",
-    "entry_price": "21",
-    "address": "Piata Unirii nr. 1",
-    "opening_time": "01:00 PM",
-    "closing_time": "09:00 PM",
+    "entry_price": "",
+    "address": "Piața Libertății 5",
+    "opening_time": "10:00 AM",
+    "closing_time": "11:00 PM",
+    "opening_saturday": "",
+    "closing_saturday": "",
+    "opening_sunday": "",
+    "closing_sunday": "",
     "categories": ["Arta"],
     "images": [
-      "https://lh3.googleusercontent.com/p/AF1QipORSOzX2vvhP--2kKjc9kTxhI7SovQVs9gNMyTE=s1360-w1360-h1020",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/MuzeuArta_Timisoara.jpg/420px-MuzeuArta_Timisoara.jpg",
-      "https://lh3.googleusercontent.com/p/AF1QipPBaI6UlEp-vSDTx08bWLp8CL3i9EQc7PeUKry5=s1360-w1360-h1020",
-      "https://lh3.googleusercontent.com/p/AF1QipOQXt3yyRYUJ4Kp_ROuHJWTbxOS_AloMfVFquAd=s1360-w1360-h1020",
-      "https://lh3.googleusercontent.com/p/AF1QipPd4TL3J6nBA5JLLtaB5sZUBrcGxv2DiuaN5C3x=s1360-w1360-h1020"
+      "https://lh3.googleusercontent.com/p/AF1QipPCphwjIRmaqDG5x3svaMXKV5e5HYZHKcSxpepr=s1360-w1360-h1020",
+      "https://lh3.googleusercontent.com/p/AF1QipP_9w6EyJplvaq4KfvXBEIo_7vcyn1TdoiqO7ek=s1360-w1360-h1020",
+      "https://lh3.googleusercontent.com/p/AF1QipNOcsLVZqme8CrIwGaf0vKQXYPuqw3jOSLqW5Ww=s1360-w1360-h1020",
+      "https://lh3.googleusercontent.com/p/AF1QipNdoBVjtmA7dObQkrV9o0j8ZTGIvhUV7BqINLkc=s1360-w1360-h1020"
     ],
     "coordinates": {
-      "lat": 43.723,
-      "lon": 10.3966
+      "lat": 45.75503600569817,
+      "lon": 21.227304448121526
     }
   },
   {
     "id": 12,
-    "name": "Muzeul 4",
-    "city": "Timisoara",
-    "country": "Romania",
-    "entry_price": "21",
-    "address": "Piata Unirii nr. 1",
-    "opening_time": "01:00 PM",
-    "closing_time": "09:00 PM",
-    "categories": ["Arta"],
-    "images": [
-      "https://lh3.googleusercontent.com/p/AF1QipPd4TL3J6nBA5JLLtaB5sZUBrcGxv2DiuaN5C3x=s1360-w1360-h1020",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/MuzeuArta_Timisoara.jpg/420px-MuzeuArta_Timisoara.jpg",
-      "https://lh3.googleusercontent.com/p/AF1QipPBaI6UlEp-vSDTx08bWLp8CL3i9EQc7PeUKry5=s1360-w1360-h1020",
-      "https://lh3.googleusercontent.com/p/AF1QipOQXt3yyRYUJ4Kp_ROuHJWTbxOS_AloMfVFquAd=s1360-w1360-h1020",
-      "https://lh3.googleusercontent.com/p/AF1QipORSOzX2vvhP--2kKjc9kTxhI7SovQVs9gNMyTE=s1360-w1360-h1020"
-    ],
-    "coordinates": {
-      "lat": 43.723,
-      "lon": 10.3966
-    }
-  },
-  {
-    "id": 13,
-    "name": "Muzeul 5",
-    "city": "Timisoara",
-    "country": "Romania",
-    "entry_price": "21",
-    "address": "Piata Unirii nr. 1",
-    "opening_time": "01:00 PM",
-    "closing_time": "09:00 PM",
-    "categories": ["Arta"],
-    "images": [
-      "https://lh3.googleusercontent.com/p/AF1QipPBaI6UlEp-vSDTx08bWLp8CL3i9EQc7PeUKry5=s1360-w1360-h1020",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/MuzeuArta_Timisoara.jpg/420px-MuzeuArta_Timisoara.jpg",
-      "https://lh3.googleusercontent.com/p/AF1QipOQXt3yyRYUJ4Kp_ROuHJWTbxOS_AloMfVFquAd=s1360-w1360-h1020",
-      "https://lh3.googleusercontent.com/p/AF1QipPd4TL3J6nBA5JLLtaB5sZUBrcGxv2DiuaN5C3x=s1360-w1360-h1020",
-      "https://lh3.googleusercontent.com/p/AF1QipORSOzX2vvhP--2kKjc9kTxhI7SovQVs9gNMyTE=s1360-w1360-h1020"
-    ],
-    "coordinates": {
-      "lat": 43.723,
-      "lon": 10.3966
-    }
-  },
-  {
-    "id": 14,
-    "name": "Restaurantul Dacilor",
+    "name": "Muzeul Uneltelor",
     "city": "Timisoara",
     "country": "Romania",
     "entry_price": "",
-    "address": "Strada Romulus 2",
-    "opening_time": "9:00 AM",
-    "closing_time": "11:00 PM",
-    "categories": ["Mancare", "Recomandat"],
+    "address": "Strada Divizia 9 Cavalerie 49A",
+    "opening_time": "02:00 PM",
+    "closing_time": "05:30 PM",
+    "opening_saturday": "",
+    "closing_saturday": "",
+    "opening_sunday": "",
+    "closing_sunday": "",
+    "categories": ["Arta"],
     "images": [
-      "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_850,h_567/https://www.gafasamarillas.com/wp-content/uploads/2016/09/restaurante-random-madrid-9.jpg",
-      "https://media-cdn.tripadvisor.com/media/photo-s/1b/6b/33/12/getlstd-property-photo.jpg"
+      "https://lh3.googleusercontent.com/p/AF1QipMmbfP_Bzgqz9S7vcbEZpur9aksUhcFS-JMxxvY=s1360-w1360-h1020",
+      "https://lh3.googleusercontent.com/p/AF1QipOPVPQp_kJhg7CBsZNEdwkJ0s1G26-BB1kAGvpk=s1360-w1360-h1020",
+      "https://lh3.googleusercontent.com/p/AF1QipOT1kT2g7eKzQExiyTG43yC8O7SZnzzslwuOI5D=s1360-w1360-h1020",
+      "https://lh3.googleusercontent.com/p/AF1QipO7CkUW_iH9ABIzNphd0c3kzqdJ9D9tK_0c-gZg=s1360-w1360-h1020"
     ],
     "coordinates": {
-      "lat": 43.7189,
-      "lon": 10.3993
+      "lat": 45.76737406527981,
+      "lon": 21.240013011362613
+    }
+  },
+
+  {
+    "id": 13,
+    "name": "Casa Antinori",
+    "city": "Timisoara",
+    "country": "Romania",
+    "entry_price": "",
+    "address": "Strada Piața Consiliul Europei 14A",
+    "opening_time": "12:00 PM",
+    "closing_time": "12:00 AM",
+    "opening_saturday": "12:00 PM",
+    "closing_saturday": "12:00 AM",
+    "opening_sunday": "12:00 PM",
+    "closing_sunday": "12:00 AM",
+    "categories": ["Mancare", "Recomandat", "Cele mai vizitate"],
+    "images": [
+      "https://lh3.googleusercontent.com/p/AF1QipOVtg7P85jUs82EpI6_uq9Wea1ZiTHu8aF7PiJV=s1360-w1360-h1020",
+      "https://lh3.googleusercontent.com/p/AF1QipMIjzF5GOkePT1YHgjqZiACVXqJuM3hfzMwGDI7=s1360-w1360-h1020",
+      "https://lh3.googleusercontent.com/p/AF1QipNNuYBOT-RHuey7aloI09BUtmp6cIFoqSrMWsS1=s1360-w1360-h1020",
+      "https://lh3.googleusercontent.com/p/AF1QipPQ1DtqL2RS8nikUMytmvCW3S_WS7jX1oTn7k-V=s1360-w1360-h1020"
+    ],
+    "coordinates": {
+      "lat": 45.76390101895466,
+      "lon": 21.225850810945094
     },
     "Menu": {
       "Bere": ["Staropramen 0.5L", "Pilsner Urquell 0.33L", "Krusovice 0.33L"],
@@ -360,22 +392,27 @@
     }
   },
   {
-    "id": 15,
-    "name": "Pizzeria Bella Napoli",
+    "id": 14,
+    "name": "Pizzeria Poli",
     "city": "Timisoara",
     "country": "Romania",
     "entry_price": "",
-    "address": "Strada Nicolae Iorga 5",
-    "opening_time": "11:00 AM",
-    "closing_time": "10:00 PM",
+    "address": "Calea Alexandru Ioan Cuza 1",
+    "opening_time": "10:00 AM",
+    "closing_time": "01:00 AM",
+    "opening_saturday": "10:00 AM",
+    "closing_saturday": "01:00 AM",
+    "opening_sunday": "12:00 PM",
+    "closing_sunday": "01:00 AM",
     "categories": ["Mancare"],
     "images": [
-      "https://bookingham.blob.core.windows.net/businesscovers/755",
-      "https://restograf.ro/wp-content/uploads/2022/12/homemade-timisoara.jpg"
+      "https://lh3.googleusercontent.com/p/AF1QipNpWt_lMJbeC5_zZhT_81S5qXy9cwEEINjE_5v3=s1360-w1360-h1020",
+      "https://lh3.googleusercontent.com/p/AF1QipPiWrz3XYeMAmPUJKSZyikQWBHXw5kMcJwHdMGo=s1360-w1360-h1020",
+      "https://lh3.googleusercontent.com/p/AF1QipP64AozMhAf1eYu2UWNXrcYDjwYvH-4HUgWwoSg=s1360-w1360-h1020"
     ],
     "coordinates": {
-      "lat": 43.7295,
-      "lon": 10.3978
+      "lat": 45.76241900312306,
+      "lon": 21.22604564844137
     },
     "Menu": {
       "Bere": ["Heineken 0.33L", "Corona 0.33L", "Becks 0.33L"],
@@ -387,22 +424,27 @@
     }
   },
   {
-    "id": 16,
-    "name": "Cafeneaua Artizan",
+    "id": 15,
+    "name": "Viviani Caffe",
     "city": "Timisoara",
     "country": "Romania",
     "entry_price": "",
-    "address": "Strada Gheorghe Lazar 10",
-    "opening_time": "7:00 AM",
-    "closing_time": "8:00 PM",
-    "categories": ["Pub-uri"],
+    "address": " Strada Teiului",
+    "opening_time": "08:00 AM",
+    "closing_time": "11:00 PM",
+    "opening_saturday": "09:00 AM",
+    "closing_saturday": "11:00 PM",
+    "opening_sunday": "09:30 AM",
+    "closing_sunday": "11:00 PM",
+    "categories": ["Cele mai vizitate", "Mancare"],
     "images": [
-      "https://hoteldelcorso.ro/img/58017DSC08537.jpg",
-      "https://lovedeco.ro/wp-content/uploads/2020/03/Quisine-Timisoara-Amenajare-restaurant-Pure-Mess-Design-5.jpg"
+      "https://lh3.googleusercontent.com/p/AF1QipPd_Tt4m1K4Tn-KI0QMCjyuduv-kSdSiPpKS1De=s1360-w1360-h1020",
+      "https://lh3.googleusercontent.com/p/AF1QipNlZ7dAMUBWoZImQcka9DWUI1sejNS0-Gx2PuVD=s1360-w1360-h1020",
+      "https://lh3.googleusercontent.com/p/AF1QipNe70OE5p_S3gWEzLgpJn3OERv2BM6z6aks1uFC=s1360-w1360-h1020"
     ],
     "coordinates": {
-      "lat": 43.7314,
-      "lon": 10.3951
+      "lat": 45.76315118750949,
+      "lon": 21.217667704451987
     },
     "Menu": {
       "Bere": ["Ciuc Radler", "Silva 0.5L", "Tuborg 0.5L"],
@@ -414,22 +456,27 @@
     }
   },
   {
-    "id": 17,
-    "name": "Restaurantul La Perla",
+    "id": 16,
+    "name": "Restaurant La Tavi",
     "city": "Timisoara",
     "country": "Romania",
     "entry_price": "",
-    "address": "Strada Constantin Brancoveanu 7",
+    "address": " Strada Călan",
     "opening_time": "12:00 PM",
-    "closing_time": "11:00 PM",
+    "closing_time": "10:00 PM",
+    "opening_saturday": "12:00 PM",
+    "closing_saturday": "10:00 PM",
+    "opening_sunday": "12:00 PM",
+    "closing_sunday": "10:00 PM",
     "categories": ["Mancare"],
     "images": [
-      "https://perla-restaurant.ro/wp-content/uploads/2023/05/perla-10532-big.jpg",
-      "https://media-cdn.tripadvisor.com/media/photo-s/06/8c/85/b3/perla.jpg"
+      "https://lh3.googleusercontent.com/p/AF1QipOWoxC9SYGzSni8GBuQQEu7QirMdIzWr07-ag0L=s1360-w1360-h1020",
+      "https://lh3.googleusercontent.com/p/AF1QipNAeXbAgM_k0ysPwkZ0gbOyLhJjrQGHW9Bs9-2O=s1360-w1360-h1020",
+      "https://lh3.googleusercontent.com/p/AF1QipNLuiNI2nOnR3VzBpEMvZNPPP_Sqc6fwpX0dwcs=s1360-w1360-h1020"
     ],
     "coordinates": {
-      "lat": 43.728,
-      "lon": 10.3927
+      "lat": 45.77096795325003,
+      "lon": 21.2209285490975
     },
     "Menu": {
       "Bere": ["Heineken 0.33L", "Corona 0.33L", "Becks 0.33L"],
@@ -438,75 +485,6 @@
     "Preturi": {
       "Bere": [18, 16, 14],
       "Mancare": [40, 30, 25]
-    }
-  },
-  {
-    "id": 18,
-    "name": "Pub-ul The King's Arms",
-    "city": "Timisoara",
-    "country": "Romania",
-    "entry_price": "",
-    "address": "Strada Martir Silviu Dragomir 3",
-    "opening_time": "10:00 AM",
-    "closing_time": "2:00 AM",
-    "categories": ["Pub-uri", "Recomandat"],
-    "images": [
-      "https://i0.wp.com/strikefans.com/wp-content/uploads/2017/01/Kings-Arms-corner.jpg?fit=3785%2C2697",
-      "https://cdn.vox-cdn.com/thumbor/5d_RtADj8ncnVqh-afV3mU-XQv0=/0x0:1600x1067/1200x900/filters:focal(672x406:928x662)/cdn.vox-cdn.com/uploads/chorus_image/image/57698831/51951042270_78ea1e8590_h.7.jpg"
-    ],
-    "Menu": {
-      "Bere": ["Budweiser 0.5L", "Carlsberg 0.33L", "Asahi 0.33L"],
-      "Mancare": ["Taco mexican", "Bucăți de pui pane", "Ratatouille"]
-    },
-    "Preturi": {
-      "Bere": [19, 14, 16],
-      "Mancare": [32, 26, 20]
-    }
-  },
-  {
-    "id": 19,
-    "name": "Pub-ul The Red Lion",
-    "city": "Timisoara",
-    "country": "Romania",
-    "entry_price": "",
-    "address": "Strada Ion Ghica 13",
-    "opening_time": "12:00 PM",
-    "closing_time": "2:00 AM",
-    "categories": ["Pub-uri", "Recomandat"],
-    "images": [
-      "https://static.standard.co.uk/s3fs-public/thumbnails/image/2017/11/28/17/old-red-lion-pic.jpg?width=968&auto=webp&quality=50&crop=968%3A645%2Csmart",
-      "https://media-cdn.tripadvisor.com/media/photo-s/1b/05/9e/ec/a-pub-can-be-a-magical.jpg"
-    ],
-    "Menu": {
-      "Bere": ["Guinness 0.5L", "Kilkenny 0.33L", "Murphy's 0.33L"],
-      "Mancare": ["Fish and Chips", "Pie and Mash", "Full English Breakfast"]
-    },
-    "Preturi": {
-      "Bere": [18, 16, 14],
-      "Mancare": [28, 22, 18]
-    }
-  },
-  {
-    "id": 20,
-    "name": "Pub-ul The Crown",
-    "city": "Timisoara",
-    "country": "Romania",
-    "entry_price": "",
-    "address": "Strada Horea 10",
-    "opening_time": "11:00 AM",
-    "closing_time": "1:00 AM",
-    "categories": ["Pub-uri", "Recomandat"],
-    "images": [
-      "https://media-cdn.tripadvisor.com/media/photo-s/1b/05/9e/ec/a-pub-can-be-a-magical.jpg",
-      "https://media-cdn.tripadvisor.com/media/photo-s/1b/05/9e/ec/a-pub-can-be-a-magical.jpg"
-    ],
-    "Menu": {
-      "Bere": ["Guinness 0.5L", "Kilkenny 0.33L", "Murphy's 0.33L"],
-      "Mancare": ["Fish and Chips", "Pie and Mash", "Full English Breakfast"]
-    },
-    "Preturi": {
-      "Bere": [18, 16, 14],
-      "Mancare": [28, 22, 18]
     }
   }
 ]

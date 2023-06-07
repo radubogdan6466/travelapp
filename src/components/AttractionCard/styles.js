@@ -15,6 +15,7 @@ const styles = StyleSheet.create({
     height: 120,
   },
   title: {
+    maxWidth: 300 / 2,
     fontSize: 12,
     fontWeight: '500',
     color: '#000000',

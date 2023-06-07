@@ -44,6 +44,7 @@ const Home = () => {
             <Title text="Aplicatia ta" style={{fontWeight: 'normal'}} />
             <Title text="Pentru tot ce cauti" />
             <Title text="Descopera Timisoara" style={styles.subtitle} />
+
             <Categories
               selectedCategory={selectedCategory}
               onCategoryPress={setSelectedCategory}
